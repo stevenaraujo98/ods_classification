@@ -1,5 +1,27 @@
 # Data and model
 
+## Structure
+- models
+- results
+- plots
+- data
+- diferent_models
+- imgs
+- docs
+- kaggle
+- .gitignore
+- README.md
+- requirements.txt
+- roberta.ipynb
+- bert.ipynb
+- trainig.log
+- 1_process_data.ipynb
+- 2_text_augmented.ipynb
+- 3_data_analytics.ipynb
+- 4_all_models.ipynb
+- 5_use_model.ipynb
+
+
 ### Enlace:
 - https://clasificaods.espol.edu.ec/
 - https://i-research.espol.edu.ec/odss
