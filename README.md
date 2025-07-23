@@ -1,27 +1,7 @@
-# Data and model
+# ODS Classification
+Modelo para clasificacion de ODS
 
-## Structure
-- models
-- results
-- plots
-- data
-- diferent_models
-- imgs
-- docs
-- kaggle
-- .gitignore
-- README.md
-- requirements.txt
-- roberta.ipynb
-- bert.ipynb
-- trainig.log
-- 1_process_data.ipynb
-- 2_text_augmented.ipynb
-- 3_data_analytics.ipynb
-- 4_all_models.ipynb
-- 5_use_model.ipynb
-
-
+## Data and model
 ### Enlace:
 - https://clasificaods.espol.edu.ec/
 - https://i-research.espol.edu.ec/odss
@@ -74,3 +54,23 @@ Data Type: Nlpaug works with text data, while DataFrame.sample() works with tabu
 Purpose: Nlpaug is for data augmentation to improve model training, while DataFrame.sample() is for data sampling for exploration and analysis. 
 Output: Nlpaug generates new text data, while DataFrame.sample() returns a subset of the original DataFrame. 
 
+## Structure
+- models
+- results
+- plots
+- data
+- diferent_models
+- imgs
+- docs
+- kaggle
+- .gitignore
+- README.md
+- requirements.txt
+- roberta.ipynb
+- bert.ipynb
+- trainig.log
+- 1_process_data.ipynb
+- 2_text_augmented.ipynb
+- 3_data_analytics.ipynb
+- 4_all_models.ipynb
+- 5_use_model.ipynb
