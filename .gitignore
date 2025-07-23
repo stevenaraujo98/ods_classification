@@ -1,0 +1,13 @@
+data/
+models/
+results/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.tmp
+*.bak
+*.swp
+__pycache__/
