@@ -41,7 +41,8 @@ https://huggingface.co/frluquba/traductor_es_en
 Purpose: Textual data augmentation for NLP models. 
 Functionality: Introduces variations in text data (e.g., synonym replacement, word insertions) to increase the size and robustness of training datasets. 
 Use cases: Improving the performance of deep learning models for tasks like text classification, named entity recognition, and question answering. 
-Example: Augmenting sentences by replacing words with synonyms to create more diverse training examples. 
+Example: Augmenting sentences by replacing words with synonyms to create more diverse training examples.  
+Uso de bert-base-multilingual-uncased  
 
 - pandas DataFrame.sample():
 Purpose: Randomly selecting rows from a DataFrame. 
