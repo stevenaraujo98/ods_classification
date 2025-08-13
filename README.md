@@ -55,6 +55,9 @@ Data Type: Nlpaug works with text data, while DataFrame.sample() works with tabu
 Purpose: Nlpaug is for data augmentation to improve model training, while DataFrame.sample() is for data sampling for exploration and analysis. 
 Output: Nlpaug generates new text data, while DataFrame.sample() returns a subset of the original DataFrame. 
 
+#### libraries
+scikit-learn==1.6.1
+
 ## Structure
 - models
 - results
